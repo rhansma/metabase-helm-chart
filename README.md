@@ -9,7 +9,7 @@ Temporary fork untill metabase delivers an official helm chart.
 ## TL;DR;
 
 ```bash
-$ helm install stable/metabase
+$ helm install rhansma-metabase/metabase
 ```
 
 ## Introduction
