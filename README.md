@@ -8,10 +8,12 @@ Temporary fork untill metabase delivers an official helm chart.
 
 # Package repo
 ```bash
-helm package .
-helm repo index --url https://rhansma.github.io/metabase-helm-chart/ .
+./package.sh
 git add . && git commit -m "New release" && git push origin master 
 ```
+
+# Bump version metabase
+Change version in Chart.yaml and values.yaml
 
 ## TL;DR;
 
