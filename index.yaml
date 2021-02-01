@@ -2,8 +2,22 @@ apiVersion: v1
 entries:
   metabase:
   - apiVersion: v1
+    appVersion: v0.37.8
+    created: "2021-02-01T10:52:18.535892+01:00"
+    description: The easy, open source way for everyone in your company to ask questions
+      and learn from data.
+    digest: 37567bf9c70fdb2a36aae0b27ecb51ecf9baf7623cf678deb8969a08dba8be0a
+    home: http://www.metabase.com/
+    icon: http://www.metabase.com/images/logo.svg
+    name: metabase
+    sources:
+    - https://github.com/metabase/metabase
+    urls:
+    - https://rhansma.github.io/metabase-helm-chart/metabase-0.13.4.tgz
+    version: 0.13.4
+  - apiVersion: v1
     appVersion: v0.37.7
-    created: "2021-01-22T18:52:51.006658+01:00"
+    created: "2021-02-01T10:52:18.533438+01:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: 1a2d398ea47b686a7321703820f78cb726b51dd250106c40da502a4bbd391a8e
@@ -17,7 +31,7 @@ entries:
     version: 0.13.3
   - apiVersion: v1
     appVersion: v0.36.3
-    created: "2021-01-22T18:52:51.005885+01:00"
+    created: "2021-02-01T10:52:18.532656+01:00"
     deprecated: true
     description: DEPRECATED - The easy, open source way for everyone in your company
       to ask questions and learn from data.
@@ -30,4 +44,4 @@ entries:
     urls:
     - https://rhansma.github.io/metabase-helm-chart/metabase-0.13.2.tgz
     version: 0.13.2
-generated: "2021-01-22T18:52:51.003968+01:00"
+generated: "2021-02-01T10:52:18.531802+01:00"

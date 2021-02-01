@@ -6,6 +6,13 @@ Temporary fork untill metabase delivers an official helm chart.
 
 [Metabase](http://metabase.com) is the easy, open source way for everyone in your company to ask questions and learn from data.
 
+# Package repo
+```bash
+helm package .
+helm repo index --url https://rhansma.github.io/metabase-helm-chart/ .
+git add . && git commit -m "New release" && git push origin master 
+```
+
 ## TL;DR;
 
 ```bash
