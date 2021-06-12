@@ -3,10 +3,10 @@ entries:
   metabase:
   - apiVersion: v1
     appVersion: v0.39.1
-    created: "2021-05-15T16:45:28.621605+02:00"
+    created: "2021-06-12T14:24:18.313888+02:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
-    digest: 5903f639d974d45a948e1a539ae7234a4e9c07d8a1deabfff61eda7fec8eab21
+    digest: f0a9b1cafd791d0d8b70901df4c692d95c9c7dc90290b0b2329bf4a9c26a2c8e
     home: http://www.metabase.com/
     icon: http://www.metabase.com/images/logo.svg
     name: metabase
@@ -17,7 +17,7 @@ entries:
     version: 0.14.0
   - apiVersion: v1
     appVersion: v0.37.9
-    created: "2021-05-15T16:45:28.618154+02:00"
+    created: "2021-06-12T14:24:18.30622+02:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: d02b519001f654505dd5709df8aeb4fbc30c78703e4c1d74e9ab37402f033a54
@@ -31,7 +31,7 @@ entries:
     version: 0.13.6
   - apiVersion: v1
     appVersion: v0.37.8
-    created: "2021-05-15T16:45:28.615634+02:00"
+    created: "2021-06-12T14:24:18.302472+02:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: 48746294c37d9dc36621fa126955b890c4c9da005008494d26b355cba672e209
@@ -45,7 +45,7 @@ entries:
     version: 0.13.5
   - apiVersion: v1
     appVersion: v0.37.8
-    created: "2021-05-15T16:45:28.614311+02:00"
+    created: "2021-06-12T14:24:18.300587+02:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: 37567bf9c70fdb2a36aae0b27ecb51ecf9baf7623cf678deb8969a08dba8be0a
@@ -59,7 +59,7 @@ entries:
     version: 0.13.4
   - apiVersion: v1
     appVersion: v0.37.7
-    created: "2021-05-15T16:45:28.613102+02:00"
+    created: "2021-06-12T14:24:18.299103+02:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: 1a2d398ea47b686a7321703820f78cb726b51dd250106c40da502a4bbd391a8e
@@ -73,7 +73,7 @@ entries:
     version: 0.13.3
   - apiVersion: v1
     appVersion: v0.36.3
-    created: "2021-05-15T16:45:28.610059+02:00"
+    created: "2021-06-12T14:24:18.297966+02:00"
     deprecated: true
     description: DEPRECATED - The easy, open source way for everyone in your company
       to ask questions and learn from data.
@@ -86,4 +86,4 @@ entries:
     urls:
     - https://rhansma.github.io/metabase-helm-chart/metabase-0.13.2.tgz
     version: 0.13.2
-generated: "2021-05-15T16:45:28.609172+02:00"
+generated: "2021-06-12T14:24:18.296727+02:00"
