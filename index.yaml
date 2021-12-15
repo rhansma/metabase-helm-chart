@@ -2,8 +2,22 @@ apiVersion: v1
 entries:
   metabase:
   - apiVersion: v1
+    appVersion: v0.40.7
+    created: "2021-12-15T07:54:02.214332+01:00"
+    description: The easy, open source way for everyone in your company to ask questions
+      and learn from data.
+    digest: c240ce7b54ee19cedc38c8cc242e7d35fdec45f446c247d9213e46f8bf9cdb19
+    home: http://www.metabase.com/
+    icon: http://www.metabase.com/images/logo.svg
+    name: metabase
+    sources:
+    - https://github.com/metabase/metabase
+    urls:
+    - https://rhansma.github.io/metabase-helm-chart/metabase-0.15.2.tgz
+    version: 0.15.2
+  - apiVersion: v1
     appVersion: v0.40.3.1
-    created: "2021-12-15T07:53:12.600605+01:00"
+    created: "2021-12-15T07:54:02.213162+01:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: 8e097c0daf0b67ddf931324f39455e00867714b196f8b0f8632d4814c9382795
@@ -17,7 +31,7 @@ entries:
     version: 0.15.1
   - apiVersion: v1
     appVersion: v0.40.3.1
-    created: "2021-12-15T07:53:12.599135+01:00"
+    created: "2021-12-15T07:54:02.212321+01:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: 16ab0777a0dad6db3396e07d3498415429961b69fd33965316c8e1f9e0851bf8
@@ -31,7 +45,7 @@ entries:
     version: 0.15.0
   - apiVersion: v1
     appVersion: v0.39.3
-    created: "2021-12-15T07:53:12.573827+01:00"
+    created: "2021-12-15T07:54:02.198349+01:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: 7788e0e99f6290869b8fc1808f4fd73d5210d3b2e024be8aeaf55425ddc27475
@@ -45,7 +59,7 @@ entries:
     version: 0.14.1
   - apiVersion: v1
     appVersion: v0.39.1
-    created: "2021-12-15T07:53:12.55345+01:00"
+    created: "2021-12-15T07:54:02.187928+01:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: f0a9b1cafd791d0d8b70901df4c692d95c9c7dc90290b0b2329bf4a9c26a2c8e
@@ -57,4 +71,4 @@ entries:
     urls:
     - https://rhansma.github.io/metabase-helm-chart/metabase-0.14.0.tgz
     version: 0.14.0
-generated: "2021-12-15T07:53:12.541312+01:00"
+generated: "2021-12-15T07:54:02.182518+01:00"
