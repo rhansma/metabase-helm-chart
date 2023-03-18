@@ -13,4 +13,4 @@ sed -i '' -e "s/${old_metabase_version}/${new_metabase_version}/g" values.yaml
 
 ./package.sh
 
-git add . && git commit -m "Bump version of metabase to $new_metabase_version" && git push origin master
+git add . && git commit -m "Bump version of metabase to $new_metabase_version" && git push origin master  
