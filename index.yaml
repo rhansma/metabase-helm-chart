@@ -2,8 +2,22 @@ apiVersion: v1
 entries:
   metabase:
   - apiVersion: v1
+    appVersion: v0.56.2.3
+    created: "2025-08-19T08:23:32.988348+02:00"
+    description: The easy, open source way for everyone in your company to ask questions
+      and learn from data.
+    digest: e6261678ae24f5237d61301ad2aaf844666c0527fb6d6b6273c9c98b0bcf27cc
+    home: http://www.metabase.com/
+    icon: http://www.metabase.com/images/logo.svg
+    name: metabase
+    sources:
+    - https://github.com/metabase/metabase
+    urls:
+    - https://rhansma.github.io/metabase-helm-chart/metabase-0.18.0.tgz
+    version: 0.18.0
+  - apiVersion: v1
     appVersion: v0.46.6.4
-    created: "2023-07-29T08:37:11.322861+02:00"
+    created: "2025-08-19T08:23:32.987694+02:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: d488ca8727a1d50f8cdb7893222e29bb9cf0c0aeb8f41a28b93466b5d717f5f2
@@ -17,7 +31,7 @@ entries:
     version: 0.17.1
   - apiVersion: v1
     appVersion: v0.46.6.1
-    created: "2023-07-29T08:37:11.322315+02:00"
+    created: "2025-08-19T08:23:32.985283+02:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: ce666807ffc9a6eaa7496183f3cb149aaa44e24ba85f44723bb41459e923ea62
@@ -31,7 +45,7 @@ entries:
     version: 0.17.0
   - apiVersion: v1
     appVersion: v0.45.3
-    created: "2023-07-29T08:37:11.320365+02:00"
+    created: "2025-08-19T08:23:32.982332+02:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: 799afb7748e08da2e242bbcdd6de875bc47f865e81787357f2c85cabe3cdacce
@@ -45,7 +59,7 @@ entries:
     version: 0.16.0
   - apiVersion: v1
     appVersion: v0.40.7
-    created: "2023-07-29T08:37:11.317146+02:00"
+    created: "2025-08-19T08:23:32.978634+02:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: c240ce7b54ee19cedc38c8cc242e7d35fdec45f446c247d9213e46f8bf9cdb19
@@ -59,7 +73,7 @@ entries:
     version: 0.15.2
   - apiVersion: v1
     appVersion: v0.40.3.1
-    created: "2023-07-29T08:37:11.315275+02:00"
+    created: "2025-08-19T08:23:32.975505+02:00"
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: 8e097c0daf0b67ddf931324f39455e00867714b196f8b0f8632d4814c9382795
@@ -71,4 +85,4 @@ entries:
     urls:
     - https://rhansma.github.io/metabase-helm-chart/metabase-0.15.1.tgz
     version: 0.15.1
-generated: "2023-07-29T08:37:11.313293+02:00"
+generated: "2025-08-19T08:23:32.969065+02:00"
